@@ -16998,7 +16998,20 @@
               -41.70259952545166,
               -22.413607311701742
             ]
-          ],
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3302403",
+        "name": "Macaé",
+        "description": "Macaé"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
             [
               -41.68718479994831,
@@ -17020,7 +17033,20 @@
               -41.68718479994831,
               -22.397708179393717
             ]
-          ],
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3302403",
+        "name": "Macaé",
+        "description": "Macaé"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
             [
               -41.972841725648316,
