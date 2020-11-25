@@ -35817,9 +35817,14 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "3304557",
-        "name": "Rio de Janeiro",
-        "description": "Rio de Janeiro"
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "id": 3304557,
+        "name": "Ilha do Governador",
+        "description": "Ilha do Governador"
       },
       "geometry": {
         "type": "Polygon",
@@ -36196,9 +36201,14 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "3304557",
-        "name": "Rio de Janeiro",
-        "description": "Rio de Janeiro"
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "id": 3304557,
+        "name": "Paquetá",
+        "description": "Paquetá"
       },
       "geometry": {
         "type": "Polygon",
