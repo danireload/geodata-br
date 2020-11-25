@@ -13914,7 +13914,20 @@
               -43.8279002714,
               -23.0573111872
             ]
-          ],
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3302007",
+        "name": "Itaguaí",
+        "description": "Itaguaí"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
             [
               -43.8579847012,
@@ -13948,7 +13961,20 @@
               -43.8579847012,
               -22.9545574274
             ]
-          ],
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3302007",
+        "name": "Itaguaí",
+        "description": "Itaguaí"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
             [
               -43.8641507674,
@@ -13990,7 +14016,20 @@
               -43.8641507674,
               -22.9452118923
             ]
-          ],
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3302007",
+        "name": "Itaguaí",
+        "description": "Itaguaí"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
             [
               -43.8649856824,
@@ -14008,7 +14047,20 @@
               -43.8649856824,
               -22.9241957231
             ]
-          ],
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3302007",
+        "name": "Itaguaí",
+        "description": "Itaguaí"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
             [
               -43.8728733082,
@@ -14058,7 +14110,20 @@
               -43.8728733082,
               -22.9469672781
             ]
-          ],
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3302007",
+        "name": "Itaguaí",
+        "description": "Itaguaí"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
             [
               -43.7848719643,
